@@ -1,0 +1,9 @@
+restaurant-recommender/
+├── data/                     # Dataset files
+├── notebooks/                # Jupyter notebooks for analysis
+├── app/                      # Streamlit app
+├── feedback/                 # Collected user feedback
+├── utils/                    # Helper functions (optional)
+├── report/                   # Final project report
+├── README.md
+├── requirements.txt
